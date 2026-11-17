@@ -1,112 +1,185 @@
-<!-- ═══════════════════════ HERO ═══════════════════════ -->
+<!-- CRIME PARTNERS FUTURISTIC PROFILE -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:111B3D,100:5427A8&text=CRIME%20PARTNERS&fontColor=00F5FF&fontSize=52&fontAlignY=38&desc=TWO%20MINDS%20%E2%80%A2%20ONE%20MISSION%20%E2%80%A2%20LIMITLESS%20POSSIBILITIES&descAlignY=60&descSize=13&animation=twinkling" width="100%" alt="Crime Partners futuristic banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,35:111B3D,70:30206B,100:00A6B2&text=CRIME%20PARTNERS&fontColor=E9FEFF&fontSize=54&fontAlignY=38&desc=DUAL%20MINDS%20%20%7C%20%20SHARED%20VISION%20%20%7C%20%20REAL%20BUILDS&descAlignY=61&descSize=14&animation=twinkling" width="100%" alt="Crime Partners futuristic neon banner"/>
 
-  <br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00F5FF&center=true&vCenter=true&width=760&lines=We+turn+ideas+into+experiences.;We+learn+by+building.;We+solve+problems+as+a+team.;Two+Minds.+One+Mission." alt="Animated Crime Partners tagline"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=00F5FF&center=true&vCenter=true&width=700&lines=Think+Together.+Build+Together.;Curiosity+into+Creativity.;Ideas+into+Real+Things.;Always+Learning.+Always+Building." alt="Animated Crime Partners tagline" />
+<br/><br/>
 
-  <br/><br/>
-
-  <a href="https://github.com/crimepartners-dev"><img src="https://img.shields.io/badge/GitHub-Crime%20Partners-0B1020?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/pragna-g-m-09010536a/"><img src="https://img.shields.io/badge/Pragna-Connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=00CFFF" alt="Pragna LinkedIn"/></a>
-  <a href="https://www.linkedin.com/in/nithin-ph-5613a8330/"><img src="https://img.shields.io/badge/Nithin-Connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=00CFFF" alt="Nithin LinkedIn"/></a>
+<a href="https://github.com/gmpragna11-max"><img src="https://img.shields.io/badge/PRAGNA-PORTFOLIO-10172A?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Pragna GitHub"/></a>
+<a href="https://github.com/deadLock-N"><img src="https://img.shields.io/badge/NITHIN-PORTFOLIO-10172A?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Nithin GitHub"/></a>
+<a href="https://github.com/crimepartners-dev"><img src="https://img.shields.io/badge/TEAM-GITHUB-10172A?style=for-the-badge&logo=github&logoColor=00D4A6" alt="Crime Partners GitHub"/></a>
 
 </div>
 
 ---
 
-## ◈ WHO WE ARE
+## ◈ THE TEAM
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### Building beyond the ordinary.
+<img src="https://github.com/gmpragna11-max.png" width="112" alt="Pragna GitHub avatar" />
 
-We're **Crime Partners** — two partners united by curiosity, creativity, and the drive to turn ideas into meaningful work.
+### PRAGNA G M
 
-We believe the best things happen when different perspectives meet: we learn together, experiment together, solve problems together, and keep moving forward.
+**Full-stack project builder**
+
+Builds responsive web experiences and application workflows, with projects spanning e-commerce, social networking, and project management.
+
+<a href="https://github.com/gmpragna11-max"><img src="https://img.shields.io/badge/VIEW%20GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Pragna GitHub profile"/></a>
+<br/>
+<a href="https://www.linkedin.com/in/pragna-g-m-09010536a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="Pragna LinkedIn"/></a>
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/01%20VISION-00F5FF?style=for-the-badge&labelColor=10172A" alt="Vision"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/02%20COLLABORATION-8B5CF6?style=for-the-badge&labelColor=10172A" alt="Collaboration"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/03%20EXECUTION-00D4A6?style=for-the-badge&labelColor=10172A" alt="Execution"/>
+<img src="https://github.com/deadLock-N.png" width="112" alt="Nithin GitHub avatar" />
+
+### NITHIN P H
+
+**Developer & hackathon explorer**
+
+Maintains a hackathon project-ideas and resources collection, focused on helping builders find project directions and plan quick MVPs.
+
+<a href="https://github.com/deadLock-N"><img src="https://img.shields.io/badge/VIEW%20GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Nithin GitHub profile"/></a>
+<br/>
+<a href="https://www.linkedin.com/in/nithin-ph-5613a8330/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="Nithin LinkedIn"/></a>
 
 </td>
 </tr>
 </table>
 
-## ◈ THE PEOPLE BEHIND THE BUILD
+## ◈ PROJECT SPOTLIGHT
 
-<table>
-<tr>
-<td align="center" width="50%">
-  <img src="https://img.shields.io/badge/TEAM%20PARTNER-7C3AED?style=for-the-badge&labelColor=10172A" alt="Team partner"/>
-  <h2>🚀 Pragna G M</h2>
-  <a href="https://www.linkedin.com/in/pragna-g-m-09010536a/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Pragna"/></a>
-</td>
-<td align="center" width="50%">
-  <img src="https://img.shields.io/badge/TEAM%20PARTNER-06B6D4?style=for-the-badge&labelColor=10172A" alt="Team partner"/>
-  <h2>⚡ Nithin P H</h2>
-  <a href="https://www.linkedin.com/in/nithin-ph-5613a8330/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Nithin"/></a>
-</td>
-</tr>
-</table>
-
-## ◈ OUR OPERATING PRINCIPLES
+<div align="center">
+<img src="https://img.shields.io/badge/SELECTED%20BUILDS-PRAGNA'S%20PUBLIC%20REPOSITORIES-10172A?style=for-the-badge&labelColor=10172A" alt="Selected builds"/>
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**✦ COLLABORATE**
+### 🛍️ Folio — E-commerce Store
 
-Better ideas emerge when we build as a team.
+A responsive shopping experience with product discovery, search, category filtering, product details, cart controls, theme switching, and toast feedback.
 
-**✦ STAY CURIOUS**
+**Stack**
 
-Every challenge is a chance to learn something new.
+Next.js · React · TypeScript · Tailwind CSS · shadcn/ui
 
-**✦ THINK DIFFERENT**
+[↗ Source code](https://github.com/gmpragna11-max/CodeAlpha_Simple_E-commerce_Store-)
 
-We welcome fresh perspectives and creative approaches.
+[▶ Demo](https://drive.google.com/file/d/1MpztFq48xlYlXPRYJZGA_rUK_PeBkbnT/view?usp=sharing)
 
 </td>
 <td width="50%" valign="top">
 
-**✦ BUILD WITH PURPOSE**
+### 👥 ConnectSphere — Social Platform
 
-We aim to turn promising ideas into practical outcomes.
+A social networking application with user accounts, profiles, posts, likes, comments, follow/unfollow, responsive layouts, and light/dark themes.
 
-**✦ KEEP EVOLVING**
+**Stack**
 
-Progress comes from practice, feedback, and persistence.
+Next.js · React · JavaScript · Tailwind CSS · MongoDB
 
-**✦ FINISH STRONG**
+[↗ Source code](https://github.com/gmpragna11-max/CodeAlpha_SocialMediaPlatform)
 
-We value thoughtful execution, not just big ideas.
+[▶ Demo](https://drive.google.com/file/d/1vyPqKQSMScw2xHDEOMEtkusL5sX0mPes/view?usp=sharing)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Project Management Tool
+
+A collaborative project workspace for creating projects, organizing task boards, assigning work, tracking status, and discussing tasks.
+
+**Stack**
+
+Next.js · React · TypeScript · API layer
+
+[↗ Source code](https://github.com/gmpragna11-max/CodeAlpha_ProjectManagementTool)
+
+[▶ Demo](https://drive.google.com/file/d/1OHiXflDlxXW1xzw6zwc6zg6KXmDbvr73/view?usp=sharing)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Hackathon-1 — Ideas & Resources
+
+A curated collection of hackathon-ready project ideas, organized by experience tier, with MVP planning prompts, feature ideas, and learning resources.
+
+**Repository focus**
+
+Hackathon ideas · MVP planning · Project resources
+
+[↗ Explore repository](https://github.com/deadLock-N/Hackathon-1)
 
 </td>
 </tr>
 </table>
 
-## ◈ OUR GITHUB SPACE
+## ◈ TECHNOLOGY LANDSCAPE
+
+These technologies are listed in the project documentation and package manifests reviewed for the featured builds.
 
 <div align="center">
 
-  <a href="https://github.com/crimepartners-dev?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-OUR%20REPOSITORIES-10172A?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Explore repositories"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn ui"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub"/>
 
-  <br/><br/>
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=crimepartners-dev&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00F5FF&text_color=DCE7FF&icon_color=8B5CF6&rank_icon=github" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crimepartners-dev&layout=compact&hide_border=true&bg_color=0B1020&title_color=00F5FF&text_color=DCE7FF" height="165" alt="Top languages"/>
+## ◈ OUR BUILD PHILOSOPHY
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 01 / EXPLORE
+
+Stay curious. Find the problem worth solving.
+
+</td>
+<td align="center" width="33%">
+
+### 02 / CREATE
+
+Turn ideas into usable, thoughtful experiences.
+
+</td>
+<td align="center" width="33%">
+
+### 03 / LEVEL UP
+
+Learn from every build. Make the next one better.
+
+</td>
+</tr>
+</table>
+
+## ◈ FIND US IN THE NETWORK
+
+<div align="center">
+
+<a href="https://github.com/gmpragna11-max"><img src="https://github-readme-stats.vercel.app/api?username=gmpragna11-max&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00F5FF&text_color=E2E8F0&icon_color=8B5CF6" height="165" alt="Pragna GitHub statistics"/></a>
+<a href="https://github.com/deadLock-N"><img src="https://github-readme-stats.vercel.app/api?username=deadLock-N&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=E2E8F0&icon_color=00D4A6" height="165" alt="Nithin GitHub statistics"/></a>
+
+<br/>
+
+<a href="https://github.com/gmpragna11-max?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PRAGNA'S%20REPOS-10172A?style=for-the-badge&logo=github" alt="Explore Pragna repositories"/></a>
+<a href="https://github.com/deadLock-N?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-NITHIN'S%20REPOS-10172A?style=for-the-badge&logo=github" alt="Explore Nithin repositories"/></a>
 
 </div>
 
@@ -114,18 +187,12 @@ We value thoughtful execution, not just big ideas.
 
 <div align="center">
 
-  ### 「 GREAT THINGS ARE BUILT TOGETHER 」
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:7C3AED,100:00D4A6" width="82%" alt="Neon divider"/>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:7C3AED,100:00D4A6" width="75%" alt="Neon divider"/>
+### TWO MINDS. ONE MISSION. BUILT TOGETHER.
 
-  **CRIME PARTNERS** &nbsp;|&nbsp; *Think Together. Build Together. Grow Together.*
+**CRIME PARTNERS** · *Think Together. Build Together. Grow Together.*
 
-  <br/>
-
-  <sub>Thanks for stopping by. Stay curious. Keep creating. ✨</sub>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=crimepartners-dev&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+<sub>Thanks for visiting our corner of GitHub. Keep exploring. Keep building. ✦</sub>
 
 </div>
