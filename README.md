@@ -8,7 +8,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,22:101B3D,48:312E81,72:0E7490,100:050816&text=CRIME%20PARTNERS&fontColor=F0FDFF&fontSize=58&fontAlignY=38&desc=BUILD%20BOLD.%20THINK%20BEYOND.%20SHIP%20TOGETHER.&descAlignY=61&descSize=15&animation=twinkling" alt="Crime Partners futuristic banner"/>
 
 <a href="https://github.com/crimepartners-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1100&color=67E8F9&center=true&vCenter=true&width=780&lines=Two+builders.+One+shared+vision.;Ideas+are+only+the+beginning.;Design.+Develop.+Experiment.+Repeat.;Welcome+to+our+digital+基地." alt="Animated team introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1100&color=67E8F9&center=true&vCenter=true&width=780&lines=Two+builders.+One+shared+vision.;Ideas+are+only+the+beginning.;Design.+Develop.+Experiment.+Repeat.;Motion.+Depth.+New+dimensions.;Welcome+to+our+digital+基地." alt="Animated team introduction"/>
 </a>
 
 <br/>
@@ -163,6 +163,76 @@ A curated hackathon idea collection organized by experience level, with problem 
 </table>
 
 ---
+
+## 🌐 &nbsp; ORGANIZATION & COLLABORATIVE BUILDS
+
+*Selected projects from the teams and organizations we collaborate with.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ GOVBRIDGE
+**Government interoperability & service orchestration**
+
+A Smart India Hackathon 2026 prototype (SIH26129) designed to connect existing departmental portals and legacy systems through reusable connectors, API orchestration, identity mapping, consent controls, workflow management, and audit trails.
+
+**Technology stack**
+
+![Next.js](https://img.shields.io/badge/Next.js_15-111827?logo=nextdotjs)
+![React](https://img.shields.io/badge/React_19-111827?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?logo=typescript)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-111827?logo=redis)
+![Docker](https://img.shields.io/badge/Docker-111827?logo=docker)
+
+[↗ Repository](https://github.com/GenZcoders6/Govbridge) · [▶ Live demo](https://govbridge-xm2d.vercel.app/)
+
+<sub>Demo note: government systems are simulated; no real citizen data or live government integrations are used.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 NEURO CHAIN
+**AI execution visualizer · CodeQuesters**
+
+A React + Vite single-page application that visualizes an eight-stage AI pipeline, from intent analysis and context enrichment to multi-perspective generation, quality checks, confidence scoring, reasoning synthesis, and final risk review.
+
+**Technology stack**
+
+![React](https://img.shields.io/badge/React-111827?logo=react)
+![Vite](https://img.shields.io/badge/Vite-111827?logo=vite)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111827?logo=tailwindcss)
+![Supabase](https://img.shields.io/badge/Supabase-111827?logo=supabase)
+
+[↗ Repository](https://github.com/Codequesters-team/CodeQuesters) · [▶ Project site](https://code-questers.vercel.app)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/GenZcoders6"><img src="https://img.shields.io/badge/TEAM-GenZcoders6-0e7490?style=for-the-badge&logo=github" alt="GenZcoders6 organization"/></a>
+<a href="https://github.com/Codequesters-team"><img src="https://img.shields.io/badge/TEAM-Codequesters--team-6d28d9?style=for-the-badge&logo=github" alt="Codequesters team"/></a>
+
+</div>
+
+---
+
+## ✨ &nbsp; MOTION & 3D-INSPIRED VISUALS
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:050816,25:164e63,55:312e81,80:6d28d9,100:050816&text=BEYOND%20THE%20FLAT%20SCREEN&fontColor=E0FCFF&fontSize=27&fontAlignY=48&desc=Animated%20gradients%20%C2%B7%20Neon%20depth%20%C2%B7%20Isometric%20energy&descAlignY=72&descSize=13&animation=twinkling" alt="Animated neon 3D-inspired Crime Partners artwork"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=DESIGNING+WITH+DEPTH.;ADDING+MOTION+TO+IDEAS.;BUILDING+THE+NEXT+DIMENSION." alt="Animated motion design text"/>
+
+<sub>GitHub READMEs support animated image assets, but block embedded scripts and interactive 3D canvases. These motion visuals are designed to render reliably here; interactive 3D model previews can be linked when a hosted model is available.</sub>
+
+</div>
 
 ## ⟁ &nbsp; OUR TOOLKIT
 
