@@ -222,17 +222,23 @@ A React + Vite single-page application that visualizes an eight-stage AI pipelin
 
 ---
 
-## ✨ &nbsp; MOTION & 3D-INSPIRED VISUALS
+## ✦ &nbsp; MOTION IN EVERY DIMENSION
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:050816,25:164e63,55:312e81,80:6d28d9,100:050816&text=BEYOND%20THE%20FLAT%20SCREEN&fontColor=E0FCFF&fontSize=27&fontAlignY=48&desc=Animated%20gradients%20%C2%B7%20Neon%20depth%20%C2%B7%20Isometric%20energy&descAlignY=72&descSize=13&animation=twinkling" alt="Animated neon 3D-inspired Crime Partners artwork"/>
+<a href="https://sketchfab.com/3d-models/animated-astronaut-character-in-space-suit-loop-8fe5c8d3365e4d87bb7bc253d53a64e1">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:050816,18:0e7490,42:312e81,70:6d28d9,100:050816&text=EXPLORE%20THE%20THIRD%20DIMENSION&fontColor=E0FCFF&fontSize=27&fontAlignY=43&desc=Tap%20to%20open%20an%20animated%20interactive%203D%20astronaut&descAlignY=68&descSize=13&animation=twinkling" alt="Animated neon visual linking to an interactive 3D astronaut model"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=DESIGNING+WITH+DEPTH.;ADDING+MOTION+TO+IDEAS.;BUILDING+THE+NEXT+DIMENSION." alt="Animated motion design text"/>
+<a href="https://sketchfab.com/3d-models/animated-astronaut-character-in-space-suit-loop-8fe5c8d3365e4d87bb7bc253d53a64e1"><img src="https://img.shields.io/badge/OPEN_INTERACTIVE_3D_MODEL-00D9FF?style=for-the-badge&logo=sketchfab&logoColor=black" alt="Open interactive 3D astronaut model on Sketchfab"/></a>
 
-<sub>GitHub READMEs support animated image assets, but block embedded scripts and interactive 3D canvases. These motion visuals are designed to render reliably here; interactive 3D model previews can be linked when a hosted model is available.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=850&color=67E8F9&center=true&vCenter=true&width=720&lines=ANIMATE+THE+IDEA.;ADD+DEPTH+TO+THE+DESIGN.;MAKE+THE+EXPERIENCE+FEEL+ALIVE." alt="Animated design statements"/>
+
+<sub>Motion graphics and animated visuals are rendered directly in this README. Open the 3D model above to rotate and explore it interactively.</sub>
 
 </div>
+
+---
 
 ## ⟁ &nbsp; OUR TOOLKIT
 
