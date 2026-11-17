@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Crime Partners — Think Together. Build Together.</title>
+  <desc id="desc">A futuristic dark navy and violet technology banner with glowing cyan and magenta circuit lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080d1c"/><stop offset=".55" stop-color="#11102b"/><stop offset="1" stop-color="#071c2c"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#35e7ff"/><stop offset=".52" stop-color="#8b7bff"/><stop offset="1" stop-color="#ff4fd8"/>
+    </linearGradient>
+    <radialGradient id="orb"><stop stop-color="#35e7ff" stop-opacity=".22"/><stop offset="1" stop-color="#35e7ff" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#8da4d8" stroke-opacity=".09" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.5" fill="#35e7ff" fill-opacity=".35"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+  <circle cx="170" cy="70" r="220" fill="url(#orb)"/>
+  <circle cx="1080" cy="340" r="260" fill="#a34dff" opacity=".12" filter="url(#blur)"/>
+  <g fill="none" stroke="url(#glow)" stroke-width="2" opacity=".7">
+    <path d="M0 280H150L205 225H290"/><path d="M1200 88H1045L990 143H920"/>
+    <path d="M80 0V54L128 102H200"/><path d="M1120 380V320L1070 270H1000"/>
+  </g>
+  <g fill="#35e7ff">
+    <circle cx="150" cy="280" r="4"/><circle cx="1045" cy="88" r="4"/><circle cx="128" cy="102" r="4"/><circle cx="1070" cy="270" r="4"/>
+  </g>
+  <g transform="translate(92 104)">
+    <rect width="150" height="150" rx="34" fill="#101c34" stroke="url(#glow)" stroke-width="2"/>
+    <path d="M40 48L74 75L40 102M88 104H116" fill="none" stroke="#e9fbff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="32" cy="24" r="4" fill="#35e7ff"/><circle cx="48" cy="24" r="4" fill="#8b7bff"/><circle cx="64" cy="24" r="4" fill="#ff4fd8"/>
+  </g>
+  <text x="290" y="153" fill="#f4f7ff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="3">CRIME PARTNERS</text>
+  <rect x="294" y="178" width="510" height="3" rx="2" fill="url(#glow)"/>
+  <text x="294" y="225" fill="#c9d5f3" font-family="Arial, Helvetica, sans-serif" font-size="27" letter-spacing="2">TWO MINDS. ONE MISSION.</text>
+  <text x="294" y="270" fill="#8eefff" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="3">THINK TOGETHER  •  BUILD TOGETHER  •  GROW TOGETHER</text>
+  <g transform="translate(970 255)" opacity=".85">
+    <circle r="48" fill="none" stroke="#35e7ff" stroke-opacity=".45"/>
+    <circle r="35" fill="none" stroke="#ff4fd8" stroke-opacity=".5" stroke-dasharray="5 8"/>
+    <circle r="6" fill="#35e7ff"/>
+  </g>
+</svg>
